@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdelmoo_v3_0"]=self["webpackChunkdelmoo_v3_0"]||[]).push([[347],{7347:function(n,e,r){r.r(e),r.d(e,{default:function(){return u}});var t=r(3396);const c={class:"admin-specialite-container"};function a(n,e,r,a,i,o){return(0,t.wg)(),(0,t.iD)("div",c)}var i={},o=r(89);const s=(0,o.Z)(i,[["render",a]]);var u=s}}]);
+//# sourceMappingURL=347.5ee7ce28.js.map
