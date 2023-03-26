@@ -1,0 +1,1 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto%3Awght%40300%3B400%3B700&display=swap);:root{--break_point_tel:680px}#app{font-family:Roboto,sans-serif;width:100%}#app,.app{height:100%}.app{max-width:1920px;margin:0 auto;min-height:99vh;display:flex;flex-direction:column}body{margin:0;background-color:#141414}.home{height:100vh;right:0;left:0}
